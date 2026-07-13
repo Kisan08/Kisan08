@@ -88,6 +88,12 @@ I'm a **Software Engineer with 3+ years of experience** building enterprise and 
 
 ---
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge)](https://kisansportfolio.netlify.app/)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
